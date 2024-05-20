@@ -1,0 +1,7 @@
+{
+  "source_code_backend_repository": "https://github.com/youcanchange/ai_generation_server"
+  "source_code_frontend_repository": "https://github.com/OpenFXT/openfxt_chat_frontend"
+  "admin_of_backend_repository": "you_can_change@outlook.com"
+  "admin_of_frontend_repository": "openfxt@gmail.com"
+  "deploy_url": "https://chatfxt.vercel.app/"
+}
